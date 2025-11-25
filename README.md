@@ -1,9 +1,35 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<div align="center">
+
+# 🌟 Welcome to My Profile 🌟
+
+<p>I'm a software engineer with a strong foundation in computer science and mathematics.</p>
+
+<p>🌈 <i>Let's connect and build amazing things together!</i> 🚀</p>
+
+<div style="display: flex; justify-content: space-evenly">
+
+<img src="https://komarev.com/ghpvc/?username=asht3&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+
+<img src="https://img.shields.io/github/followers/asht3?style=for-the-badge&color=blue" alt="Followers"/>
+
+</div>
+
+<!-- <img src="https://img.shields.io/badge/Status-Available_for_collaboration-purple" alt="Status" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=asht3.asht3&"  /> -->
+
+</div>
+
+<hr>
 
 ###
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asht3&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="asht3" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asht3&show_icons=true&theme=synthwave&locale=en" alt="asht3" /></p>
+
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=asht3.asht3&"  />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=asht3&theme=radical&hide_border=false" />
+  <!-- <img src="https://github-profile-trophy.vercel.app?username=asht3&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> -->
 </div>
 
 ###
@@ -26,21 +52,5 @@
   <img src="https://skillicons.dev/icons?i=wordpress" height="60" alt="wordpress logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=asht3&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <!-- <img src="https://github-profile-trophy.vercel.app?username=asht3&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> -->
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asht3/asht3/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asht3/asht3/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/asht3/asht3/output/pacman-contribution-graph.svg">
-</picture>
-
-###
