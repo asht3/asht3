@@ -2,7 +2,7 @@
 
 # 🌟 Welcome to My Profile 🌟
 
-<p>Software engineer with a strong foundation in computer science and mathematics and proficiency in languages such as Java, C, and C++. Skilled in web development using WordPress and CSS. Knowledgeable in modern development practices, including version control and collaboration using Git and GitHub. Equipped with a solid understanding of data structures and algorithm design, enabling effective problem-solving. Adept at working independently, in teams, and remotely. </p>
+<p align="left">Software engineer with a strong foundation in computer science and mathematics and proficiency in languages such as Java, C, and C++. Skilled in web development using WordPress and CSS. Knowledgeable in modern development practices, including version control and collaboration using Git and GitHub. Equipped with a solid understanding of data structures and algorithm design, enabling effective problem-solving. Adept at working independently, in teams, and remotely. </p>
 
 <p>🌈 <i>Let's connect and build amazing things together!</i> 🚀</p>
 
