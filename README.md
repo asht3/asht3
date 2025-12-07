@@ -4,13 +4,15 @@
 
 <p align="left">Software engineer with a strong foundation in computer science and mathematics and proficiency in languages such as Java, C, and C++. Skilled in web development using WordPress and CSS. Knowledgeable in modern development practices, including version control and collaboration using Git and GitHub. Equipped with a solid understanding of data structures and algorithm design, enabling effective problem-solving. Adept at working independently, in teams, and remotely. </p>
 
+<p><a href="https://asht3.github.io/">Portfolio</a></p>
+
 <p>🌈 <i>Let's connect and build amazing things together!</i> 🚀</p>
 
 <div style="display: flex; justify-content: space-evenly">
 
 <img src="https://komarev.com/ghpvc/?username=asht3&style=for-the-badge&color=blueviolet" alt="Profile views"/>
 
-<img src="https://img.shields.io/github/followers/asht3?style=for-the-badge&color=blue" alt="Followers"/>
+<!-- <img src="https://img.shields.io/github/followers/asht3?style=for-the-badge&color=blue" alt="Followers"/> -->
 
 </div>
 
@@ -48,5 +50,8 @@
   <img src="https://skillicons.dev/icons?i=wordpress" height="60" alt="wordpress logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=webassembly" height="60" alt="webassembly logo"  />
 </div>
