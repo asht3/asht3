@@ -2,7 +2,7 @@
 
 # 🌟 Welcome to My Profile 🌟
 
-<p>I'm a software engineer with a strong foundation in computer science and mathematics.</p>
+<p>Software engineer with a strong foundation in computer science and mathematics and proficiency in languages such as Java, C, and C++. Skilled in web development using WordPress and CSS. Knowledgeable in modern development practices, including version control and collaboration using Git and GitHub. Equipped with a solid understanding of data structures and algorithm design, enabling effective problem-solving. Adept at working independently, in teams, and remotely. </p>
 
 <p>🌈 <i>Let's connect and build amazing things together!</i> 🚀</p>
 
@@ -22,10 +22,6 @@
 <hr>
 
 ###
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asht3&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="asht3" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asht3&show_icons=true&theme=synthwave&locale=en" alt="asht3" /></p>
 
 <div align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asht3&theme=radical&hide_border=false" />
